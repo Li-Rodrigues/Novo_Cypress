@@ -12,3 +12,24 @@ Desenvolvimento de teste E2E com Cypress para análise do software RESPONDE AI, 
 </p>
 
 
+## Tela do chatbot do software RESPONDE AI avaliada pelo Cypress
+<p align="center">
+<img width="600px" src="https://github.com/user-attachments/assets/1795d2d6-f630-4366-b230-4d8c1676aa5d">
+</p>
+
+## Technologies
+<p>Visual Studio Code</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>React</p>
+<p>Flask</p>
+<p>Javascript</p>
+<p>PostgreSQL</>
+<p>Python</p>
+<p>Cypress</p>
+<p>Linter</p>
+<p> Pytest</p>
+<p> Lighthouse</p>
+
+
+
